@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 # aaditgupta-tri3
 
 What can I do with Tech to improve mine or others education?
