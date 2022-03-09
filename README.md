@@ -1,4 +1,4 @@
-{% include navigation.html %}
+{% include nav.html %}
 
 # aaditgupta-tri3
 
