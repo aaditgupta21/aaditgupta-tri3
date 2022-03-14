@@ -7,7 +7,7 @@ main_menu = [
 # Works similarly to main_menu
 sub_menu = [
     ["ship", "patterns/ship.py"],
-	["bowling", "patterns/bowling.py"],
+	["blowfish", "patterns/blowfish.py"],
 ]
 
 # Menu banner is typically defined by menu owner
