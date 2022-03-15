@@ -4,6 +4,7 @@ main_menu = [
     ["Matrix", "code/matrix.py"],
     ["Swap", "code/swap.py"],
 	["Fibonacci Sequence", "code/fibonacci.py"],
+	["Info List", "code/list.py"],
 ]
 
 # Submenu list of [Prompt, Action]
