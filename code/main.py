@@ -1,6 +1,9 @@
+from fibonacci import fib
+
 main_menu = [
     ["Matrix", "code/matrix.py"],
     ["Swap", "code/swap.py"],
+	["Fibonacci Sequence", "code/fibonacci.py"],
 ]
 
 # Submenu list of [Prompt, Action]
