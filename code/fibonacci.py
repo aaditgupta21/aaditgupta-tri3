@@ -17,7 +17,7 @@ def tester():
     if num < 0:
         print("Sorry, Fibonacci Sequence does not exist for negative numbers")
     else:
-        print("The factorial of", num, "is", fib(num))
+        print("The fibbonacci sequence of ", num, "is", fib(num))
 
 if __name__ == "__main__":
    # stuff only to run when not called via 'import' here
