@@ -1,3 +1,6 @@
+{% include nav.html %}
+
+
 # Create Task
 
 Hangman Console Game
