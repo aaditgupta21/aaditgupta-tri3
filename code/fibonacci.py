@@ -1,15 +1,13 @@
-def fib(n):
-	if n < 0:
-		print("Cannot be negative number")
-
-	if n == 0:
-		return 0
-	if n==1 or n==2:
-		return 1
-
-	else:
-		return fib(n-1) + fib(n-2)
-
+def fib(num):
+	if num <= 0:
+		return [0]
+	seq = [0,1]
+	while len(seq) < num:
+		yo = len(seq)
+		new = seq[yo - 1] + seq[yo - 2]
+		seq.append(new)
+	return seq
+	
 
 def tester():
     num = int(input("Enter a number for Fibonacci Sequence: "))
