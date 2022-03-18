@@ -1,10 +1,10 @@
 from fibonacci import fib
-
+from infodb import *
 main_menu = [
     ["Matrix", "code/matrix.py"],
     ["Swap", "code/swap.py"],
 	["Fibonacci Sequence", "code/fibonacci.py"],
-	["Info List", "code/list.py"],
+	["Info DB", "code/infodb.py"],
 ]
 
 # Submenu list of [Prompt, Action]
