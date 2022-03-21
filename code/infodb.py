@@ -24,15 +24,19 @@ InfoDb.append({
 	"Played_For":["Lakers"]  
 })
 
+# Iterating through each list item with for loop
 def for_loop():
 	for i in range(len(InfoDb)):
 		print(InfoDb[i])
 
+# Iterating through each list item with while loop and increasing by 1
 def while_loop():
 	i = 0
 	while i < len(InfoDb):
 		print(InfoDb[i])
 		i = i+1
+
+# Recursively printing items
 
 def recursive_loop(i = 0):
 	if i < len(InfoDb):
