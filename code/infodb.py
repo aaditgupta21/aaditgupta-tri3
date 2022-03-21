@@ -18,6 +18,12 @@ InfoDb.append({
 	"Played_For":["Heat", "Cavs", "Bulls"]  
 })
 
+InfoDb.append({  
+	"FirstName": "Kobe",  
+	"LastName": "Bryant",  
+	"Played_For":["Lakers"]  
+})
+
 def for_loop():
 	for i in range(len(InfoDb)):
 		print(InfoDb[i])
