@@ -1,18 +1,18 @@
-from fibonacci import fib
-from infodb import *
+from week1.fibonacci import fib
+from week1.infodb import *
 main_menu = [
-    ["Matrix", "code/matrix.py"],
-    ["Swap", "code/swap.py"],
-	["Fibonacci Sequence", "code/fibonacci.py"],
-	["Info DB", "code/infodb.py"],
+    ["Matrix", "week0/matrix.py"],
+    ["Swap", "week0/swap.py"],
+	["Fibonacci Sequence", "week1/fibonacci.py"],
+	["Info DB", "week1/infodb.py"],
 ]
 
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 sub_menu = [
-    ["ship", "patterns/ship.py"],
-	["blowfish", "patterns/blowfish.py"],
-	["tree", "patterns/tree.py"],
+    ["ship", "week0/ship.py"],
+	["blowfish", "week0/blowfish.py"],
+	["tree", "week0/tree.py"],
 ]
 
 # Menu banner is typically defined by menu owner
