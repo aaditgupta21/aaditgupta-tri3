@@ -12,15 +12,15 @@ What can I do with Tech to improve mine or others education?
 
 [Week 1 Individual Ticket](https://github.com/aaditgupta21/csp-notes/issues/3)
 
-## Time Box
+# Time Box
 
-### Week 0 - [Review Ticket](https://github.com/aaditgupta21/csp-notes/issues/2)
+## Week 0 - [Review Ticket](https://github.com/aaditgupta21/csp-notes/issues/2)
 
 - [TT0 - Python Menu](https://replit.com/@aaditgupta21/csp-notes#main.py) 
 
 - [5.1 - 5.2 Notes + Actions](https://aaditgupta21.github.io/csp-notes/prep/5.1-5.2)
 
-### Week 1 - [Review Ticket](https://github.com/aaditgupta21/csp-notes/issues/3)
+## Week 1 - [Review Ticket](https://github.com/aaditgupta21/csp-notes/issues/3)
 
 - [TT1 - Python List and Loop](https://replit.com/@aaditgupta21/csp-notes#week1/infodb.py) 
 
