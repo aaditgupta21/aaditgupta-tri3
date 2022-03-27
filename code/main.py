@@ -1,12 +1,15 @@
 from week1.fibonacci import fib
 from week1.infodb import *
-
-
+from week2.factorial import *
+from week2.gcd import *
 main_menu = [
     ["Matrix", "code/week0/matrix.py"],
     ["Swap", "code/week0/swap.py"],
 	["Fibonacci Sequence", "code/week1/fibonacci.py"],
 	["Info DB", "code/week1/infodb.py"],
+	["Factorial", "code/week2/factorial.py"],
+	["GCD", "code/week2/gcd.py"],
+
 ]
 
 # Submenu list of [Prompt, Action]
