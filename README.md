@@ -11,6 +11,10 @@ What can I do with Tech to improve mine or others education?
 
 [Week 1 Individual Ticket](https://github.com/aaditgupta21/csp-notes/issues/3)
 
+# Week 2
+
+[Week 2 Individual Ticket](https://github.com/aaditgupta21/csp-notes/issues/4)
+
 # Time Box
 
 ## Week 0 - [Review Ticket](https://github.com/aaditgupta21/csp-notes/issues/2)
