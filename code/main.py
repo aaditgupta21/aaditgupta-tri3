@@ -3,16 +3,23 @@ from week1.infodb import *
 from week2.factorial import *
 from week2.gcd import *
 from week2.palindrome import *
+
+
 main_menu = [
+	["Info DB", "code/week1/infodb.py"],
+]
+
+
+
+math_sub_menu = [
     ["Matrix", "code/week0/matrix.py"],
     ["Swap", "code/week0/swap.py"],
 	["Fibonacci Sequence", "code/week1/fibonacci.py"],
-	["Info DB", "code/week1/infodb.py"],
 	["Factorial", "code/week2/factorial.py"],
 	["GCD", "code/week2/gcd.py"],
 	["Palindrome", "code/week2/palindrome.py"],
-
 ]
+
 
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
@@ -30,23 +37,28 @@ banner = f"\n{border}\nPlease Select An Option\n{border}"
 # using main_menu list:
 # 1. main menu and submenu reference are created [Prompts, Actions]
 # 2. menu_list is sent as parameter to menuy.menu function that has logic for menu control
-def menu():
-    title = "Function Menu" + banner
-    menu_list = main_menu.copy()
-    menu_list.append(["Patterns", submenu])
-    buildMenu(title, menu_list)
 
-# def submenu
-# using sub menu list above:
-# sub_menu works similarly to menu()
-def submenuc():
-  title = "Class Submenu" + banner
-  m = submenus.Menu(title, sub_menu)
-  m.menu()
+def menu():
+	title = "Function Menu" + banner
+	menu_list= main_menu.copy()
+	menu_list.append(["Patterns", submenu])
+	menu_list.append(["Math", math_submenu])
+	buildMenu(title, menu_list)
 
 def submenu():
     title = "Function Submenu" + banner
     buildMenu(title, sub_menu)
+
+
+def math_submenuc():
+    title = "submenu" + banner
+    m = submenus.Menu(title, math_sub_menu)
+    m.menu()
+
+
+def math_submenu():
+    title = "submenu" + banner
+    buildMenu(title, math_sub_menu)
 
 # builds console menu
 def buildMenu(banner, options):
