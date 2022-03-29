@@ -1,5 +1,6 @@
 {% include nav.html %}
 
+Hi everyone! My name is Aadit Gupta and this webiste documents my learning experience in Tri 3 Data Structures.
 # Week 0
 
 What can I do with Tech to improve mine or others education?
