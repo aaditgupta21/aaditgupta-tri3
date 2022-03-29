@@ -18,6 +18,7 @@ math_sub_menu = [
 	["Factorial", "code/week2/factorial.py"],
 	["GCD", "code/week2/gcd.py"],
 	["Palindrome", "code/week2/palindrome.py"],
+  ["Random Number Game", "code/week3/randomnumber.py"]
 ]
 
 
