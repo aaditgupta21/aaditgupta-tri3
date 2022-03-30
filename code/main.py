@@ -7,6 +7,8 @@ from week2.palindrome import *
 
 main_menu = [
 	["Info DB", "code/week1/infodb.py"],
+	["Rock Paper Scissors", "code/week3/rockpaperscissors.py"],
+
 ]
 
 
@@ -19,7 +21,6 @@ math_sub_menu = [
 	["GCD", "code/week2/gcd.py"],
 	["Palindrome", "code/week2/palindrome.py"],
   ["Random Number Game", "code/week3/randomnumber.py"],
-  ["Rock Paper Scissors", "code/week3/rockpaperscissors.py"],
 ]
 
 
