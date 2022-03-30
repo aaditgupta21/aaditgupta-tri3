@@ -1,36 +1,34 @@
 from random import randint
 
 #create a list of play options
-t = ["Rock", "Paper", "Scissors"]
+t = ["rock", "paper", "scissors"]
 
-#assign a random play to the computer
+#this assigns a value to the computer: the randomly generated number corresponds to the list above
 computer = t[randint(0,2)]
 
-#set player to False
-player = False
-
-while player == False:
-#set player to True
+n = True
+#this is to create a loop which keeps the game running after each turn
+while n == True:
     player = input("Rock [r], Paper [p], Scissors [s]: ")
     if player == computer:
-        print("You tied!")
+        print("It's a tie!")
     elif player == "r":
-        if computer == "Paper":
-            print("You lose!", computer, "beats Rock")
+        if computer == "paper":
+            print("You lose!", computer, "beats rock")
         else:
-            print("You win!", "Rock beats", computer)
+            print("You win! Rock beats", computer)
     elif player == "p":
         if computer == "Scissors":
-            print("You lose!", computer, "beats Paper")
+            print("You lose!", computer, "beats paper")
         else:
-            print("You win!", "Paper beats", computer)
+            print("You win! Paper beats", computer)
     elif player == "s":
         if computer == "Rock":
-            print("You lose...", computer, "beats Scissors")
+            print("You lose...", computer, "beats scissors")
         else:
-            print("You win!", "Scissors beats", computer)
+            print("You win! Scissors beats", computer)
     else:
         print("That's not a valid play. Check your spelling!")
 
-    player = False
+    n = True
     computer = t[randint(0,2)]
