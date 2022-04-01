@@ -3,6 +3,17 @@ from week1.infodb import *
 from week2.factorial import *
 from week2.gcd import *
 from week2.palindrome import *
+import sys
+from time import sleep
+
+welcome = "Aadit Gupta's Algorithms\n"
+
+def yo():
+  for x in welcome:
+    print(x, end='')
+    sys.stdout.flush()
+    sleep(0.1)
+
 
 
 main_menu = [
@@ -105,4 +116,5 @@ def buildMenu(banner, options):
 
 
 if __name__ == "__main__":
-    menu()
+	yo()
+	menu()
