@@ -29,3 +29,10 @@ What can I do with Tech to improve mine or others education?
 - [TT1 - Python List and Loop](https://replit.com/@aaditgupta21/csp-notes#week1/infodb.py) 
 
 - [5.3 - 5.4 Notes + Actions](https://aaditgupta21.github.io/csp-notes/prep/5.3-5.4)
+
+
+## Week 2 - [Review Ticket](https://github.com/aaditgupta21/csp-notes/issues/4)
+
+- [TT2 - Python Classy Functions](https://replit.com/@aaditgupta21/csp-notes) 
+
+- [5.5 - 5.6 Notes + Actions](https://aaditgupta21.github.io/csp-notes/prep/5.5-5.6)
