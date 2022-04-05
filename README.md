@@ -18,7 +18,7 @@ What can I do with Tech to improve mine or others education?
 
 # Week 3
 
-[Week 3 Individual Ticket](https://github.com/aaditgupta21/csp-notes/issues/5)\n
+[Week 3 Individual Ticket](https://github.com/aaditgupta21/csp-notes/issues/5) <br>
 [Algorithmic Final Video](https://www.loom.com/share/e712a964f2a546d697c4bc9e863cf38d)
 
 # Time Box
