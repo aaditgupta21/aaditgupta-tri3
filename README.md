@@ -27,8 +27,9 @@ Phone Number
 ![image](https://user-images.githubusercontent.com/50186752/162317504-fa206fee-50dd-40a6-80a4-141746b89c36.png)
 ![image](https://user-images.githubusercontent.com/50186752/162317795-11cae45d-e4f9-4162-81a2-8f8e85450c7d.png)
 
-Logout
+Logout <br>
 ![image](https://user-images.githubusercontent.com/50186752/162324189-43399bc2-4388-4de1-a1e2-8f5ff12a4fed.png)
+![image](https://user-images.githubusercontent.com/50186752/162324330-c9b81661-4f48-47fd-aed1-cc7ca01ed3ed.png)
 
 
 # Time Box
