@@ -23,8 +23,12 @@ What can I do with Tech to improve mine or others education?
 
 # Week 4
 
+Phone Number
 ![image](https://user-images.githubusercontent.com/50186752/162317504-fa206fee-50dd-40a6-80a4-141746b89c36.png)
 ![image](https://user-images.githubusercontent.com/50186752/162317795-11cae45d-e4f9-4162-81a2-8f8e85450c7d.png)
+
+Logout
+![image](https://user-images.githubusercontent.com/50186752/162324189-43399bc2-4388-4de1-a1e2-8f5ff12a4fed.png)
 
 
 # Time Box
