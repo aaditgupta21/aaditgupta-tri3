@@ -22,7 +22,7 @@ What can I do with Tech to improve mine or others education?
 [Algorithmic Final Video](https://www.loom.com/share/e712a964f2a546d697c4bc9e863cf38d)
 
 # Week 4
-
+[Week 4 Individual Ticket](https://github.com/aaditgupta21/csp-notes/issues/6)
 Phone Number
 ![image](https://user-images.githubusercontent.com/50186752/162317504-fa206fee-50dd-40a6-80a4-141746b89c36.png)
 ![image](https://user-images.githubusercontent.com/50186752/162317795-11cae45d-e4f9-4162-81a2-8f8e85450c7d.png)
