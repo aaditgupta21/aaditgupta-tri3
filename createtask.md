@@ -33,7 +33,7 @@ Part D:
 
 | Section | Question | Answer | 
 | --- | --- | --- |
-| i| Describes two calls to the procedure identified in written response3c. Each call must pass a different argument(s) that causes a different segment of code in the algorithm to execute.| zipHistory([92129, 92127, 92126]) vs zipHistory([92137, 92116, 92037])|
+| i| Describes two calls to the procedure identified in written response3c. Each call must pass a different argument(s) that causes a different segment of code in the algorithm to execute.| addData([92129, 92127, 92126]) vs addData([92137, 92116, 92037])|
 | ii| Describes what condition(s) is being tested by each call to the procedure| Checks to see if the given input of the zipcode is 5 digits long. Other condition is that there is only three zipcodes in the resulting list. |
 | iii| Identifies the result of each call| There will be an output of 'Past Zipcodes: 92129, 92127, 92126'. and  'Past Zipcodes: 92137, 92116, 92037'|
 
