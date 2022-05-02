@@ -35,8 +35,8 @@ Login Required to access CRUD API
 ![image](https://user-images.githubusercontent.com/50186752/162324771-2670f1e0-bed6-4eb0-9141-d06fb7e2b00d.png)
 
 # Week 5
-[Week 5 Study Plan](https://github.com/aaditgupta21/csp-notes/issues/7)
-[Week 5 Individual Ticket](https://github.com/aaditgupta21/csp-notes/issues/8)
+[Week 5 Study Plan](https://github.com/aaditgupta21/csp-notes/issues/7)\n
+[Week 5 Individual Ticket](https://github.com/aaditgupta21/csp-notes/issues/8)\n
 [Quiz Corrections](https://aaditgupta21.github.io/csp-notes/prep/final1)
 
 # Time Box
