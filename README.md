@@ -43,6 +43,10 @@ Login Required to access CRUD API
 [Week 6 Individual Ticket](https://github.com/aaditgupta21/csp-notes/issues/9) <br>
 [Quiz Corrections](https://aaditgupta21.github.io/csp-notes/prep/final1)
 
+# Week 7
+[Week 7 Individual Ticket](https://github.com/aaditgupta21/csp-notes/issues/10) <br>
+[Quiz Corrections](https://aaditgupta21.github.io/csp-notes/prep/final2)
+
 # Time Box
 
 ## Week 0 - [Review Ticket](https://github.com/aaditgupta21/csp-notes/issues/2)
