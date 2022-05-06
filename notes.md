@@ -42,6 +42,11 @@
     <td>Finals Corrections</td>
     <td><a href="https://aaditgupta21.github.io/csp-notes/prep/final1">LINK</a></td>
   </tr>
+  <tr>
+    <td>Week 5 Quiz </td>
+    <td>Finals Corrections</td>
+    <td><a href="https://aaditgupta21.github.io/csp-notes/prep/final2">LINK</a></td>
+  </tr>
 </table>
 
 
